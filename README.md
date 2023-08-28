@@ -4,7 +4,6 @@ Whatsapp BOT client
 ## About
 
 Whatsapp BOT with JavaScript language. by using npm and node.js
-------
 
 ## how to install
 
